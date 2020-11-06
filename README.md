@@ -8,7 +8,7 @@ FKLlinux并不能帮助你修复K**evil**n的Linux，只能让你的Linux**炸**
 [:no_entry_sign: 这里 There. :no_entry_sign:](http://phihelp.github.io/FKLinux)
 
 ## :warning: 免责声明 | Disclaimers :warning:
-[:warning: 这里 There. :warning:](./DISCLAIMERS.md)
+[:warning: 这里 There. :warning:](./DISCLAIMERS)
 
 ### :scroll: 开源许可证 | License :scroll:
 [:scroll:放弃拥有许可证 | The Unlicense :scroll:](./LICENSE)
